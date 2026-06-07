@@ -1,6 +1,6 @@
 # Hey, I'm Aston 👋
 
-I'm an aspiring IT professional and developer passionate about technology, cybersecurity, and building things that matter. I learn by doing — currently certified in CompTIA A+, Security+, and CySA+ while shipping real software projects.
+I'm an aspiring IT professional and developer passionate about technology, cybersecurity, and building things that matter. I learn by doing currently certified in CompTIA A+, Security+, and CySA+ while shipping real software projects.
 
 ---
 

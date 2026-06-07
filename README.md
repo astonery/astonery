@@ -43,7 +43,7 @@ An AI-powered wellness platform built for women, featuring personalized guidance
 ## 📬 Connect
 
 - 🌐 Portfolio: [astonery.github.io](https://astonery.github.io)
-- 📧 Email: astoneryllc@outlook.com
+- 📧 Email: astoneryllc@outlook.com, astol.ltd@gmail.com
 - 💼 LinkedIn: *Coming soon*
 
 ---

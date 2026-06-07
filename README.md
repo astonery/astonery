@@ -6,9 +6,9 @@ I'm an aspiring IT professional and developer passionate about technology, cyber
 ## 🔐 Cert Path
 | Certification | Status |
 |---|---|
-| CompTIA A+ | ✅ Certified
-| CompTIA Security+ | ✅ Certified
-| CompTIA CySA+ | ✅ Certified
+| CompTIA A+ | ✅ Certified |
+| CompTIA Security+ | ✅ Certified |
+| CompTIA CySA+ | ✅ Certified |
 
 ---
 
@@ -34,6 +34,13 @@ An AI-powered wellness platform built for women, featuring personalized guidance
 A fully client-side job search command center built with vanilla HTML/CSS/JS and the Anthropic API. Features a drag-and-drop kanban tracker, live job discovery via web search, AI-powered resume tailoring, cover letter generation, interview prep, and integrations with Gmail, Google Drive, and Google Calendar. No frameworks, no backend, no build step — just open and go.
 
 `Vanilla JS` `Anthropic API` `Gmail MCP` `Google Drive MCP` `Google Calendar MCP` `Vercel`
+
+---
+
+### [VOLTA](https://github.com/astonery/volta) — Agentic Ecommerce Platform
+A futuristic multi-agent ecommerce platform powered by Claude. Features a manager agent that routes requests to specialist shopping, support, pricing, and order agents — each with their own tools and memory. Built with a FastAPI backend and a custom dark-themed browser chat UI. Includes conversational memory, real-time tool calling, and a full ReAct orchestration loop.
+
+`Python` `FastAPI` `Anthropic API` `Multi-Agent` `ReAct` `HTML/CSS/JS`
 
 ---
 

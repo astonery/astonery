@@ -6,9 +6,9 @@ I'm an aspiring IT professional and developer passionate about technology, cyber
 ## 🔐 Cert Path
 | Certification | Status |
 |---|---|
-| CompTIA A+ | ✅ Certified |
-| CompTIA Security+ | ✅ Certified |
-| CompTIA CySA+ | ✅ Certified |
+| CompTIA A+ | ✅ Certified
+| CompTIA Security+ | ✅ Certified
+| CompTIA CySA+ | ✅ Certified
 
 ---
 
